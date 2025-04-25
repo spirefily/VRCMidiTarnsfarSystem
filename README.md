@@ -1,0 +1,2 @@
+# VRCMidiTarnsfarSystem
+VRChatにMIDIデバイス信号を送信するソフトウェア
